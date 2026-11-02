@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 建模工作流"
+  short_description: "先查建模目录，再分阶段造型、检查网格与装配并核对交付"
+
