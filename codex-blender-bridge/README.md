@@ -25,5 +25,7 @@
 
 此前在一台 Windows 机器的 Blender 5.2.3 LTS 中，已核验插件 GUI、连接、选区、暂停写入、`geo.box`、场景读取、视口截图、`doctor`、`plan catalog`、`lease → act → release` 和独立 worker 启停。此处上传的是该次交付的源码包；**未在另一台机器上完成全新安装验收**。第三方 Poly Haven、Sketchfab、Poly Pizza、Hyper3D 和混元入口需要各自账号或服务条件，未验证其付费或实际生成效果。
 
+本仓库原创 Skill 和说明文档按[免费分享与使用说明](../SHARING.md)提供：允许个人自用和学习，商业使用、转卖和付费教学需另获许可。插件及运行库中的上游 MIT/BSD 代码仍按其原许可使用。
+
 `execute_code` 能运行任意 Blender Python；只在可信本机使用客户端和令牌文件。默认监听回环地址，不要直接暴露端口到公网。
 
